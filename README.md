@@ -1,0 +1,2 @@
+# e-store-django
+backend
